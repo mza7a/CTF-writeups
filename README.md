@@ -1,2 +1,2 @@
 # CTF-writeups
-Writeups for all the CTFs
+Writeups for all the CTFs I have played.
